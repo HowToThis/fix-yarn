@@ -1,0 +1,3 @@
+[submodule "lib/incremental-mass-rewritten"]
+	path = lib/incremental-mass-rewritten
+	url = https://github.com/MrRedShark77/incremental-mass-rewritten.git
